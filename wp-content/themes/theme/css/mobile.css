@@ -1,0 +1,70 @@
+@media screen and (max-width: 1020px) {
+ a.logo {
+     float: none;
+     margin: 10px auto;
+     display: block;
+ }
+ .imghed {
+     display: none;
+ }
+ .social {
+     float: none;
+     margin: 10px auto;
+     display: block;
+ }
+ a.navbar-brand {
+     display: block;
+ }
+ .navbar-default .navbar-brand {
+     color: #fff;
+     font-family: kof;
+ }
+ a.banner1 img {
+     width: 100%;
+ }
+ .footer p {
+     text-align: center;
+     width: 100%;
+ }
+ .footer {
+     padding-bottom: 10px;
+ }
+ .onepost p {
+     padding: 5px;
+     text-align: center;
+     height: inherit;
+ }
+ .onepost img {
+     height: 160px;
+ }
+    
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+    
+    
+    
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #E29E45;
+}
+    
+    
+.navbar-default .navbar-toggle {
+    border-color: #E29E45;
+}
+    
+    
+    
+    
+    
+    
+.navbar-collapse {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+    
+    
+    
+    
+    
+}
